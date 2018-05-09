@@ -1,0 +1,8 @@
+{
+    "name": "phpbenchmarks/smarty-common",
+    "type": "project",
+    "license": "proprietary",
+    "require": {
+        "smarty/smarty": "^2.0"
+    }
+}
